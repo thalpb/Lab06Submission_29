@@ -1,3 +1,4 @@
+#import
 import sys 
 import pygame as pg
 r = 255
